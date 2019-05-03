@@ -30,7 +30,7 @@ channel.basic_qos(prefetch_count=1)
 
 channel.basic_consume(
     queue='queue_name_test', # 对列名
-    auto_ack=True, # 自动回应
+    auto_ack=False, # 自动回应
     on_message_callback=callback, # 回调消息
 )
 
