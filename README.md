@@ -9,10 +9,9 @@
 
 > Python队列Queue使用 🍺🍺👉  https://blog.csdn.net/Coxhuang/article/details/89764188
 
-## #0 GitHub
+## #0 Blog
 
-https://github.com/Coxhuang/python-rabbitmq
-
+https://blog.csdn.net/Coxhuang/article/details/89786760
 
 ## #1 环境
 
